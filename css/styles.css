@@ -1,3 +1,18 @@
-h1 p {
+body {
+  background: blanchedalmond;
+}
+h1,
+p,
+footer {
   text-align: center;
+}
+a {
+  color: blue;
+  margin: 0 10px;
+}
+.photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
